@@ -1,1 +1,1 @@
-# Machine-Learning-And-Artificial-Intelligence-Practical
+# Machine-Learning-And-Artificial-Intelligence-Lab
